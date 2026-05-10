@@ -13,7 +13,7 @@ public class Main {
         int opcao;
 
         do {
-            System.out.println("\n===== SISTEMA LOGICOMMERCE =====");
+            System.out.println("\n===== SISTEMA E-COMMERCE =====");
             System.out.println("1 - Cadastrar entregador");
             System.out.println("2 - Criar entrega");
             System.out.println("3 - Listar entregadores");
